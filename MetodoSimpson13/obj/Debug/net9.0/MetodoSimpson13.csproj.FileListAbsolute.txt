@@ -1,0 +1,15 @@
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\bin\Debug\net9.0\MetodoSimpson13.exe
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\bin\Debug\net9.0\MetodoSimpson13.deps.json
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\bin\Debug\net9.0\MetodoSimpson13.runtimeconfig.json
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\bin\Debug\net9.0\MetodoSimpson13.dll
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\bin\Debug\net9.0\MetodoSimpson13.pdb
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\obj\Debug\net9.0\MetodoSimpson13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\obj\Debug\net9.0\MetodoSimpson13.AssemblyInfoInputs.cache
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\obj\Debug\net9.0\MetodoSimpson13.AssemblyInfo.cs
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\obj\Debug\net9.0\MetodoSimpson13.csproj.CoreCompileInputs.cache
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\obj\Debug\net9.0\MetodoSimpson13.sourcelink.json
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\obj\Debug\net9.0\MetodoSimpson13.dll
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\obj\Debug\net9.0\refint\MetodoSimpson13.dll
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\obj\Debug\net9.0\MetodoSimpson13.pdb
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\obj\Debug\net9.0\MetodoSimpson13.genruntimeconfig.cache
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ACT9-ElMetodo\MetodoSimpson13\obj\Debug\net9.0\ref\MetodoSimpson13.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetodoSimpson13")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12fa92475d32159f24372aa01408a761fbc33e9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetodoSimpson13")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetodoSimpson13")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
