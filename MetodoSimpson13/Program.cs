@@ -18,9 +18,9 @@ do
 
     Func<double, double> f = opcion switch
     {
-        1 => x => Ecuaciones.EqUno(x),
-        2 => x => Ecuaciones.EqDos(x),
-        3 => x => Ecuaciones.EqTres(x),
+        1 => Ecuaciones.EqUno,
+        2 => Ecuaciones.EqDos,
+        3 => Ecuaciones.EqTres,
         _ => throw new ArgumentException("Opción no válida.")
     };
 
@@ -39,7 +39,7 @@ do
 
     Console.WriteLine("¿Desea ver información adicional? (s/n)");
     Console.Write(">>");
-    bool info = Console.ReadLine()!.ToLower() == "s";
+    bool info = Console.ReadLine()!.Equals("s", StringComparison.CurrentCultureIgnoreCase);
 
     if (info) Console.WriteLine(new string('-', 60));
 
@@ -55,6 +55,6 @@ do
 
     Console.WriteLine("¿Desea realizar otra operación? (s/n)");
     Console.Write(">>");
-    continuar = Console.ReadLine()!.ToLower() == "s";
+    continuar = Console.ReadLine()!.Equals("s", StringComparison.CurrentCultureIgnoreCase);
 
 } while (continuar != false);
